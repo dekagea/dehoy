@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'mhfv-stcr-qa3-cd'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6F6DA5703E03426D9FD8940A7862FE2D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1988858AF3D7499489A905A4C662E7E9 }}
           package: .
