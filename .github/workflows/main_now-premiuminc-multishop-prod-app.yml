@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'now-premiuminc-multishop-prod-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B6186C186B5E40069247BC81718E4B9A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0D467A52EBC7423DA85AE952E9A4D876 }}
           package: .
